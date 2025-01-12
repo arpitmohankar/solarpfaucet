@@ -9,7 +9,7 @@ export default function Home() {
       <Head>
         <title>Solana Airdrop</title>
         <meta name="description" content="Solana Airdrop Website by ArpitM" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="https://img.icons8.com/?size=100&id=NgbFFSOCkrnB&format=png&color=000000" />
       </Head>
       <Header />
       <main>
